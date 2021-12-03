@@ -1,0 +1,5 @@
+taoDB: php artisan migrate/phai tao csdl truoc
+update lai autoload cua composer de chay seed: composer update
+tao tk admin:php artisan db:seed
+
+Link phong hoi thi https://meet.google.com/gzi-tjna-gcc
